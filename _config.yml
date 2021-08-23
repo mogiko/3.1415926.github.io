@@ -16,18 +16,17 @@ url:
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /xyyyyyyz.github.io
-
+baseurl: /3.1415926
 
 #
 # 下面的设定都是可选的
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://xyyyyyyz.github.io/images/logo.jpg
+avatar: https://xyyyyyyz.github.io/3.1415926/images/logo.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://xyyyyyyz.github.io/images/favicon.png
+favicon: https://xyyyyyyz.github.io/3.1415926/images/favicon.png
 
 
 # 菜单中的按钮
